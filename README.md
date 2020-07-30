@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+![imagem01](./figs/header_seminario.jpeg)
 
-You can use the [editor on GitHub](https://github.com/255ribeiro/coordblender/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Sistemas de coordenadas nas Geometrias e no Blender - Guia da apresentação
+_____
+
+
+## Objetivo principal
+
+## Metodologia
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
