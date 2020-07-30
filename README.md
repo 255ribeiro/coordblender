@@ -10,7 +10,7 @@
 &emsp;
   <img src="./figs/faufba.jpg" height="50" /> 
 &emsp;
-  <img src="./figs/lcad.jpg" height="50" />
+  <img src="./figs/LCAD.jpg" height="50" />
 &emsp;
 <img src="./figs/multigraf.png" height="50" />
 
