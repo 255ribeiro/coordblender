@@ -20,7 +20,7 @@
 
 _____
 Apresentado no:
-##Seminário NEGSPP / FAUFBA. Competências Digitais para o Ensino-aprendizagem
+## Seminário NEGSPP / FAUFBA. Competências Digitais para o Ensino-aprendizagem
 ##### 06/08/2020 10h
 por:
 #### Fernando Ferraz Ribeiro
