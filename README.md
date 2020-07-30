@@ -50,14 +50,28 @@ _____
 
 ### Geometria Projetiva (Desargues)
 
-  * Sistemas de projeções
+[Filippo Brunelleschi 1377-1446](https://pt.wikipedia.org/wiki/Filippo_Brunelleschi)
+
+[Leon Battista Alberti 1404-1472](https://pt.wikipedia.org/wiki/Leon_Battista_Alberti)
+
+[Girard Desargues 1591-1661](https://pt.wikipedia.org/wiki/Girard_Desargues)
+
+[Jean-Victor Poncelet 1788- 1867](https://pt.wikipedia.org/wiki/Jean-Victor_Poncelet)
+
+[David Hilbert 1862-1943](https://en.wikipedia.org/wiki/David_Hilbert)
+
+
   * Sistemas de coordenadas homogêneas
+
+
 
 ### Geometria Descritiva (Mongeana)
 
-
+_____________
+_____________
 
 ### Exercícios no Blender
+
 
 #### Interface
 ![interface](./figs/imgBlender/blenderInterface.jpg)
@@ -67,6 +81,8 @@ _____
 3. Controles de cena e camadas de visibilidade (Scene and View Layer selection)
 4. Editores
 
+Abas servem para trocar entre diferentes configurações de editores.
+________________
 #### Editores
 
 ![Editores](./figs/imgBlender/blendeditors.jpg)
@@ -77,6 +93,18 @@ _____
   3. Properties
   4. Timeline
 
-Abas servem para trocar entre diferentes configurações de editores.
 
 O atalho ``ctrl + space`` maximiza o editor atual ou retorna para a vista padrão da aba.
+________________
+
+#### Adções (addons)
+
+![preferences](figs/imgBlender/preferences.jpg)
+
+_______________
+
+#### Precisão (snaps)
+
+_______________
+
+#### Modos de 
