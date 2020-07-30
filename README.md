@@ -65,7 +65,7 @@ _____
 1. Menu do programa (application menu)
 2. Abas (tabs)
 3. Controles de cena e camadas de visibilidade (Scene and View Layer selection)
-4. 
+4. Editores
 
 #### Editores
 
@@ -77,6 +77,6 @@ _____
   3. Properties
   4. Timeline
 
-ctrl + space maximiza o editor atual ou retorna para a vista padrão da aba.
+Abas servem para trocar entre diferentes configurações de editores.
 
-Abas servem para trocar entre diferentes configurações de editores
+O atalho ``ctrl + space`` maximiza o editor atual ou retorna para a vista padrão da aba.
