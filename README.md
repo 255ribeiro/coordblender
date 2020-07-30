@@ -10,14 +10,21 @@
 &emsp;
   <img src="./figs/faufba.jpg" height="50" /> 
 &emsp;
-  <img src="./figs/LCAD.jpg" height="50" />
+  <img src="./figs/multigraf.png" height="50" />
 &emsp;
-<img src="./figs/multigraf.png" height="50" />
+<img src="./figs/LCAD.JPG" height="50" />
 
 </p>
 
 
 
+_____
+Apresentado no:
+##Seminário NEGSPP / FAUFBA. Competências Digitais para o Ensino-aprendizagem
+##### 06/08/2020 10h
+por:
+#### Fernando Ferraz Ribeiro
+##### fernando.ribeiro@ubfa.br
 _____
 
 
