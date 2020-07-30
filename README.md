@@ -1,6 +1,23 @@
+# Sistemas de coordenadas nas Geometrias e no Blender - Guia da apresentação
+
 ![imagem01](./figs/header_seminario.jpeg)
 
-# Sistemas de coordenadas nas Geometrias e no Blender - Guia da apresentação
+
+
+
+<p style="text-align:center;">
+  <img src="./figs/UFBA.png" height="50" />
+&emsp;
+  <img src="./figs/faufba.jpg" height="50" /> 
+&emsp;
+  <img src="./figs/lcad.jpg" height="50" />
+&emsp;
+<img src="./figs/multigraf.png" height="50" />
+
+</p>
+
+
+
 _____
 
 
