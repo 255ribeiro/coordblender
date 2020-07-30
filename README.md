@@ -6,13 +6,13 @@
 
 
 <p style="text-align:center;">
-  <img src="./figs/UFBA.png" height="50" />
+  <img src="./figs/UFBA.png" height="65" />
 &emsp;
   <img src="./figs/faufba.jpg" height="50" /> 
 &emsp;
   <img src="./figs/multigraf.png" height="50" />
 &emsp;
-<img src="./figs/LCAD.jpg" height="50" />
+  <img src="./figs/LCAD.jpg" height="50" />
 
 </p>
 
@@ -29,42 +29,54 @@ por:
 _____
 _____
 
+## Introdução
+
 ## Objetivo principal
 
 ## Metodologia
 
+## Estrutura da apresentação
+
+### Origens da Geometria
+
+  * geometrias sintéticas e analíticas
+
+### Geometria Euclidiana
+
+### Geometria Analítica (Cartesiana)
+
+  * Coordenadas cartesianas
+  * Coordenadas polares
+
+### Geometria Projetiva (Desargues)
+
+  * Sistemas de projeções
+  * Sistemas de coordenadas homogêneas
+
+### Geometria Descritiva (Mongeana)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Exercícios no Blender
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Interface
+![interface](./figs/imgBlender/blenderInterface.jpg)
 
-```markdown
-Syntax highlighted code block
+1. Menu do programa (application menu)
+2. Abas (tabs)
+3. Controles de cena e camadas de visibilidade (Scene and View Layer selection)
+4. 
 
-# Header 1
-## Header 2
-### Header 3
+#### Editores
 
-- Bulleted
-- List
+![Editores](./figs/imgBlender/blendeditors.jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+  1. 3d viewport
+  2. Outliner
+  3. Properties
+  4. Timeline
 
-[Link](url) and ![Image](src)
-```
+ctrl + space maximiza o editor atual ou retorna para a vista padrão da aba.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/255ribeiro/coordblender/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Abas servem para trocar entre diferentes configurações de editores
