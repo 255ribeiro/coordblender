@@ -24,9 +24,10 @@ Apresentado no:
 ##### 06/08/2020 10h
 por:
 #### Fernando Ferraz Ribeiro
-##### fernando.ribeiro@ubfa.br
+#### fernando.ribeiro@ubfa.br
+##### [Lattes: http://lattes.cnpq.br/4616226561374562](http://lattes.cnpq.br/4616226561374562)
 _____
-
+_____
 
 ## Objetivo principal
 
