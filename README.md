@@ -12,7 +12,7 @@
 &emsp;
   <img src="./figs/multigraf.png" height="50" />
 &emsp;
-<img src="./figs/LCAD.JPG" height="50" />
+<img src="./figs/LCAD.jpg" height="50" />
 
 </p>
 
