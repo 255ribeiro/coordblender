@@ -134,6 +134,9 @@ Os modos de trabalho ([object modes](https://docs.blender.org/manual/en/2.83/edi
 
 Selecione um dos objetos da cena e clique na seta do seletor de modos como na figura acima.
 
+Apenas dois modos de objeto serão apresentados neste momento, **Object Mode** e o **Edit Mode**. A tecla ``Tab`` alterna automaticamente entre estes dois modos.
+
+**Observação:** note que, quando mudamos de modo os painéis mostram algumas opções diferentes.
 
 _______________
 
