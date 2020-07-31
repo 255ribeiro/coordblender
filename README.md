@@ -82,6 +82,7 @@ _____________
 4. Editores
 
 Abas servem para trocar entre diferentes configurações de editores.
+
 ________________
 #### Editores
 
@@ -95,11 +96,23 @@ ________________
 
 
 O atalho ``ctrl + space`` maximiza o editor atual ou retorna para a vista padrão da aba.
+
 ________________
 
 #### Adções (addons)
 
 ![preferences](figs/imgBlender/preferences.jpg)
+
+
+##### Addons sugeridos:
+
+  1. [CAD transformations](https://github.com/s-leger/blender_cad_transforms)
+  1. [Sverchok](https://github.com/nortikin/sverchok/)
+  1. [Sorcar](https://github.com/aachman98/Sorcar)
+  1. [Blender Gis](https://github.com/domlysz/BlenderGIS)
+  1. [Blender Bim](https://blenderbim.org/)
+  1. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
+  1. [QBlocker](https://blender-addons.org/qblocker-addon/)
 
 _______________
 
