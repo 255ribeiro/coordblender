@@ -76,6 +76,9 @@ _____________
 
 
 #### Interface
+
+[Documentação](https://docs.blender.org/manual/en/2.83/interface/index.html#user-interface)
+
 ![interface](./figs/imgBlender/blenderInterface.jpg)
 
 1. Menu do programa (application menu)
@@ -87,6 +90,8 @@ Abas servem para trocar entre diferentes configurações de editores.
 
 ________________
 #### Editores
+
+[Documentação](https://docs.blender.org/manual/en/2.83/editors/index.html#editors)
 
 ![Editores](./figs/imgBlender/blendeditors.jpg)
 
