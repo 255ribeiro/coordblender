@@ -101,6 +101,41 @@ O atalho ``ctrl + space`` maximiza o editor atual ou retorna para a vista padrã
 
 ________________
 
+#### Paineis T e N
+
+Alguns editores possuem pequenas setas nos lados de duas áreas. Menus podem ser abertos clicando e arrastando nas setas, ou pelos atalhos ``T`` e ``N``.
+
+Abaixo Vemos a indicação das setas no editor 3d Viewport.
+
+![menus T e N](figs/imgBlender/menusTeN.jpg)
+
+No Lado esquerdo, temos o painel de ferramentas (tools panel) que pode ser visto ou escondido teclando ``T``.
+![Menu T](figs/imgBlender/menuT.jpg)
+
+No lado direito temos o painel lateral (Sidebar panel), que pode ser mostrado ou recolhido também pela tecla ``N``(como mitos dos ajustes são numéricos, a equipe do Blender escolheu a tecla ``N`` como atalho para este painel)
+
+![Menu N](figs/imgBlender/menuN.jpg)
+
+É comum encontrar estes paineis referidos como ``T`` e ``N`` nos materiais de informação sobre o blender.
+
+Uma outra versão do painel T pode ser vista pressionando as teclas ``shift + space``. 
+
+![shift+space](figs/imgBlender/shifht_space.jpg)
+
+Uma tabela com botões aparece na posição do ponteiro do mouse, apresentando os mesmos botões do painel de ferramentas. 
+
+________________
+
+#### Modos de trabalho do Menu 3D Viewport
+
+
+_______________
+
+#### Precisão (snaps)
+
+
+________________
+
 #### Adções (addons)
 
 ![preferences](figs/imgBlender/preferences.jpg)
@@ -116,10 +151,7 @@ ________________
   1. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
   1. [QBlocker](https://blender-addons.org/qblocker-addon/)
 
-_______________
 
-#### Precisão (snaps)
 
 _______________
 
-#### Modos de 
