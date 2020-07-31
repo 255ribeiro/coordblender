@@ -1,4 +1,6 @@
-# Sistemas de coordenadas nas Geometrias e no Blender - Guia da apresentação
+# Sistemas de coordenadas nas Geometrias e no Blender
+
+## Guia da apresentação
 
 ![imagem01](./figs/header_seminario.jpeg)
 
