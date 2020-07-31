@@ -112,7 +112,7 @@ Abaixo Vemos a indicação das setas no editor 3d Viewport.
 No Lado esquerdo, temos o painel de ferramentas (tools panel) que pode ser visto ou escondido teclando ``T``.
 ![Menu T](figs/imgBlender/menuT.jpg)
 
-No lado direito temos o painel lateral (Sidebar panel), que pode ser mostrado ou recolhido também pela tecla ``N``(como mitos dos ajustes são numéricos, a equipe do Blender escolheu a tecla ``N`` como atalho para este painel)
+No lado direito temos o painel lateral (Sidebar panel), que pode ser mostrado ou recolhido também pela tecla ``N``(como muitos dos ajustes são numéricos, a equipe do Blender escolheu a tecla ``N`` como atalho para este painel)
 
 ![Menu N](figs/imgBlender/menuN.jpg)
 
