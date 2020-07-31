@@ -33,7 +33,7 @@ _____
 
 ## Introdução
 
-## Objetivo principal
+## Objetivos
 
 ## Metodologia
 
@@ -101,7 +101,7 @@ O atalho ``ctrl + space`` maximiza o editor atual ou retorna para a vista padrã
 
 ________________
 
-#### Paineis T e N
+#### Painéis T e N
 
 Alguns editores possuem pequenas setas nos lados de duas áreas. Menus podem ser abertos clicando e arrastando nas setas, ou pelos atalhos ``T`` e ``N``.
 
@@ -126,7 +126,13 @@ Uma tabela com botões aparece na posição do ponteiro do mouse, apresentando o
 
 ________________
 
-#### Modos de trabalho do Menu 3D Viewport
+#### Modos de Trabalho do Editor 3D Viewport
+
+Os modos de trabalho ([object modes](https://docs.blender.org/manual/en/2.83/editors/3dview/modes.html#object-modes) podem ser selecionados pela barra superior esquerda do editor 3d viewport.
+
+![modos](figs/imgBlender/modosobj.jpg)
+
+Selecione um dos objetos da cena e clique na seta do seletor de modos como na figura acima.
 
 
 _______________
