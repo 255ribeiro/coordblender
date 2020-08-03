@@ -41,6 +41,7 @@ _____
 ### Origens da Geometria
 
 ![egipcios](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/sc(1).jpg)
+###### TOLEDO, M. Didática de matemática: como dois e dois: a construção da Matemática. São Paulo: FTD, 1997 p. 19.
 
 ### Geometria Euclidiana
 
@@ -102,6 +103,10 @@ _____
 [Gaspar Monge  1746-1818](https://pt.wikipedia.org/wiki/Gaspard_Monge)
 
 ![sólidos intercesão](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kegelzylinder-mantellinienverf.png)
+
+![diedros](figs/imgGeom/diedros.png)
+
+![bissetores](figs/imgGeom/bissetores.png)
 
 
 _____________
@@ -187,9 +192,10 @@ Apenas dois modos de objeto serão apresentados neste momento, **Object Mode** e
 
 _______________
 
-#### Precisão (snaps)
+#### Precisão (snaps & pivots)
 
-
+![snaps](figs/imgBlender/snaps.png)
+![pivots](figs/imgBlender/pivot.png)
 
 ________________
 
@@ -211,3 +217,16 @@ ________________
 
 _______________
 
+#### Sistemas de coordenadas
+
+![corrdenadas_belnder](figs/imgBlender/coordenadas_blender.jpg)
+
+1. Global
+2. local
+3. Normal
+4. Gimbal
+5. view
+6. Cursor
+7. Adicionar outros
+
+________________
