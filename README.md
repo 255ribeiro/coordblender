@@ -41,14 +41,39 @@ _____
 
 ### Origens da Geometria
 
-  * geometrias sintéticas e analíticas
 
 ### Geometria Euclidiana
 
+
+[Euclides de Alexandria](https://pt.wikipedia.org/wiki/Euclides)
+
+#### Axiomas:
+  1.  Coisas que são iguais a uma mesma coisa, são iguais entre si.
+  2.  Se iguais são adicionados a iguais, os resultados são iguais.
+  3.  Se iguais são subtraídos de iguais, os restos são iguais.
+  4.  Coisas que coincidem uma com a outra, são iguais.
+  5.   O todo é maior do que qualquer uma das suas partes.
+
+#### Postulados:
+  1. Dados dois pontos distintos, há um único segmento de reta que os une;
+  2.  Um segmento de reta pode ser prolongado indefinidamente para construir uma reta;
+  3.  Dados um ponto qualquer e uma distância qualquer, pode-se construir uma circunferência de centro naquele ponto e com raio igual à distância dada;
+  4.  Todos os ângulos retos são congruentes (semelhantes);
+  5.  Se duas linhas intersectam uma terceira linha de tal forma que a soma dos ângulos internos em um lado é menor que dois ângulos retos, então as duas linhas devem se intersectar neste lado se forem estendidas indefinidamente. (Postulado de Euclides ou Postulado das Paralelas)
+
+![elementos](figs/imgGeom/elementos.png)
+
 ### Geometria Analítica (Cartesiana)
 
+[René Descartes](https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+
   * Coordenadas cartesianas
+
+![cartesiano_plano](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg)
+
   * Coordenadas polares
+
+![polar_coordenadas](https://upload.wikimedia.org/wikipedia/commons/d/d3/Examples_of_Polar_Coordinates.svg)
 
 ### Geometria Projetiva (Desargues)
 
@@ -63,11 +88,21 @@ _____
 [David Hilbert 1862-1943](https://en.wikipedia.org/wiki/David_Hilbert)
 
 
-  * Sistemas de coordenadas homogêneas
+  * [Sistemas de coordenadas homogêneas](https://en.wikipedia.org/wiki/Homogeneous_coordinates)
+  
+![img](https://upload.wikimedia.org/wikipedia/commons/1/12/RationalBezier2D.svg)
 
+  * [Matriz de transformação](https://en.wikipedia.org/wiki/Transformation_matrix)
+
+![mat_img](https://upload.wikimedia.org/wikipedia/commons/2/2c/2D_affine_transformation_matrix.svg)
 
 
 ### Geometria Descritiva (Mongeana)
+
+[Gaspar Monge](https://pt.wikipedia.org/wiki/Gaspard_Monge)
+
+![sólidos intercesão](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kegelzylinder-mantellinienverf.png)
+
 
 _____________
 _____________
