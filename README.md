@@ -33,19 +33,19 @@ _____
 
 ## Introdução
 
-## Objetivos
-
-## Metodologia
-
-## Estrutura da apresentação
+1. Sobre o seminário de capacitação digital
+2. O ensino de desenho e programas de desenho nos cursos de arquitetura
+3. Objetivos da apresentação
+   
 
 ### Origens da Geometria
 
+![egipcios](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/sc(1).jpg)
 
 ### Geometria Euclidiana
 
 
-[Euclides de Alexandria](https://pt.wikipedia.org/wiki/Euclides)
+[Euclides de Alexandria - 300 a.C](https://pt.wikipedia.org/wiki/Euclides)
 
 #### Axiomas:
   1.  Coisas que são iguais a uma mesma coisa, são iguais entre si.
@@ -61,19 +61,19 @@ _____
   4.  Todos os ângulos retos são congruentes (semelhantes);
   5.  Se duas linhas intersectam uma terceira linha de tal forma que a soma dos ângulos internos em um lado é menor que dois ângulos retos, então as duas linhas devem se intersectar neste lado se forem estendidas indefinidamente. (Postulado de Euclides ou Postulado das Paralelas)
 
-![elementos](figs/imgGeom/elementos.png)
+![Elementos](figs/imgGeom/elementos.png)
 
 ### Geometria Analítica (Cartesiana)
 
-[René Descartes](https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+[René Descartes 1596-1650](https://pt.wikipedia.org/wiki/Ren%C3%A9_Descartes)
 
   * Coordenadas cartesianas
 
-![cartesiano_plano](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg)
+![Cartesiano_plano](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg)
 
   * Coordenadas polares
 
-![polar_coordenadas](https://upload.wikimedia.org/wikipedia/commons/d/d3/Examples_of_Polar_Coordinates.svg)
+![Polar_coordenadas](https://upload.wikimedia.org/wikipedia/commons/d/d3/Examples_of_Polar_Coordinates.svg)
 
 ### Geometria Projetiva (Desargues)
 
@@ -99,7 +99,7 @@ _____
 
 ### Geometria Descritiva (Mongeana)
 
-[Gaspar Monge](https://pt.wikipedia.org/wiki/Gaspard_Monge)
+[Gaspar Monge  1746-1818](https://pt.wikipedia.org/wiki/Gaspard_Monge)
 
 ![sólidos intercesão](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kegelzylinder-mantellinienverf.png)
 
@@ -109,6 +109,13 @@ _____________
 
 ### Exercícios no Blender
 
+#### Site oficial
+
+[blender.org](https://www.blender.org/)
+
+[Download](https://www.blender.org/download/)
+
+[Desenvolvimento do Blender](https://code.blender.org/2020/02/release-planning-2020-2025/?utm_source=www-homepage)
 
 #### Interface
 
@@ -183,6 +190,7 @@ _______________
 #### Precisão (snaps)
 
 
+
 ________________
 
 #### Adções (addons)
@@ -199,7 +207,6 @@ ________________
   1. [Blender Bim](https://blenderbim.org/)
   1. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
   1. [QBlocker](https://blender-addons.org/qblocker-addon/)
-
 
 
 _______________
