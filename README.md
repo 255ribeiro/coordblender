@@ -106,11 +106,11 @@ _____
 
 ![diedros](figs/imgGeom/diedros.png)
 
-###### Material de aula da disciplina Desenho Projetivo elaborado pela professora Natalie Johanna Groetelaars
+###### Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
 
 ![bissetores](figs/imgGeom/bissetores.png)
 
-###### Material de aula da disciplina Desenho Projetivo elaborado pela professora Natalie Johanna Groetelaars
+###### Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
 _____________
 _____________
 
@@ -214,7 +214,7 @@ Acima vemos uma das maneiras de se abrir o menu de preferências.
 
 ![addons](figs/imgBlender/addons.jpg)
 
-Na opção Add-ons podemos ver uma série de adições que já vem embarcadas no Blender e podemos instalar outras, baixadas da internet.
+Na opção Add-ons podemos ver uma série de adições que já vem embarcadas no Blender e podemos instalar outras, baixadas da internet. Alguns são gratuitos e outros pagos.
 
 ##### Add-ons sugeridos (gratuitos - disponíveis na internet):
 
