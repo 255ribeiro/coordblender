@@ -197,16 +197,26 @@ _______________
 #### Precisão (snaps & pivots)
 
 ![snaps](figs/imgBlender/snaps.png)
+
+Comandos de precisão do Blender.
+
 ![pivots](figs/imgBlender/pivot.png)
+
+Pontos pivots de transformação do Blender.
 
 ________________
 
-#### Adções (addons)
+#### Adções (add-ons)
 
 ![preferences](figs/imgBlender/preferences.jpg)
 
+Acima vemos uma das maneiras de se abrir o menu de preferências.
 
-##### Addons sugeridos:
+![addons](figs/imgBlender/addons.jpg)
+
+Na opção Add-ons podemos ver uma série de adições que já vem embarcadas no Blender e podemos instalar outras, baixadas da internet.
+
+##### Add-ons sugeridos (gratuitos - disponíveis na internet):
 
   1. [CAD transformations](https://github.com/s-leger/blender_cad_transforms)
   1. [Sverchok](https://github.com/nortikin/sverchok/)
@@ -215,6 +225,7 @@ ________________
   1. [Blender Bim](https://blenderbim.org/)
   1. [Point Cloud vizualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280)
   1. [QBlocker](https://blender-addons.org/qblocker-addon/)
+  1. [Jmesh](https://github.com/jayanam/jmesh-tools)
 
 
 _______________
