@@ -106,9 +106,11 @@ _____
 
 ![diedros](figs/imgGeom/diedros.png)
 
+###### Material de aula da disciplina Desenho Projetivo elaborado pela professora Natalie Johanna Groetelaars
+
 ![bissetores](figs/imgGeom/bissetores.png)
 
-
+###### Material de aula da disciplina Desenho Projetivo elaborado pela professora Natalie Johanna Groetelaars
 _____________
 _____________
 
@@ -222,7 +224,7 @@ _______________
 ![corrdenadas_belnder](figs/imgBlender/coordenadas_blender.jpg)
 
 1. Global
-2. local
+2. Local
 3. Normal
 4. Gimbal
 5. view
