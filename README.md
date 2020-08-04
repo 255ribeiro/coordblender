@@ -34,7 +34,8 @@ _____
 ## Introdução
 
 1. Sobre o seminário de capacitação digital
-    * [Apresentação no congresso da UFBA](https://www.youtube.com/watch?v=DDwek2GkaRI&feature=youtu.be)
+    * Apresentação no congresso da UFBA:
+      [Experiências didáticas com o uso de tecnologias digitais no ensino do desenho](https://www.youtube.com/watch?v=DDwek2GkaRI&feature=youtu.be)
 2. O ensino de desenho e programas de desenho nos cursos de arquitetura
 3. Objetivos da apresentação
    
@@ -165,6 +166,7 @@ Abaixo Vemos a indicação das setas no editor 3d Viewport.
 ![menus T e N](figs/imgBlender/menusTeN.jpg)
 
 No Lado esquerdo, temos o painel de ferramentas (tools panel) que pode ser visto ou escondido teclando ``T``.
+
 ![Menu T](figs/imgBlender/menuT.jpg)
 
 No lado direito temos o painel lateral (Sidebar panel), que pode ser mostrado ou recolhido também pela tecla ``N``(como muitos dos ajustes são numéricos, a equipe do Blender escolheu a tecla ``N`` como atalho para este painel)
