@@ -34,6 +34,7 @@ _____
 ## Introdução
 
 1. Sobre o seminário de capacitação digital
+    * [Apresentação no congresso da UFBA](https://www.youtube.com/watch?v=DDwek2GkaRI&feature=youtu.be)
 2. O ensino de desenho e programas de desenho nos cursos de arquitetura
 3. Objetivos da apresentação
    
