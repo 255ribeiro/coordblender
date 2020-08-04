@@ -5,8 +5,6 @@
 ![imagem01](./figs/header_seminario.jpeg)
 
 
-
-
 <p style="text-align:center;">
   <img src="./figs/UFBA.png" height="65" />
 &emsp;
@@ -17,8 +15,6 @@
   <img src="./figs/LCAD.jpg" height="50" />
 
 </p>
-
-
 
 _____
 Apresentado no:
