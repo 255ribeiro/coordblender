@@ -109,7 +109,20 @@ _____
 ![bissetores](figs/imgGeom/bissetores.png)
 
 ###### Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
-_____________
+_______
+### Sistemas de coordenadas em computação gráfica
+
+![Coordenadas do objeto e do Mundo](https://upload.wikimedia.org/wikipedia/commons/8/8b/Model-to-world_space.png)
+
+Sistemas de coordenada do objeto e do mundo
+
+![coordenadas da câmera e da tela](https://upload.wikimedia.org/wikipedia/commons/3/36/World_view_space.png)
+
+Criação do sistema de coordenadas da imagem
+
+###### fonte: [https://en.wikibooks.org/wiki/Game_Creation_with_XNA/3D_Development/Camera_and_Lighting#Coordinate_Systems](https://en.wikibooks.org/wiki/Game_Creation_with_XNA/3D_Development/Camera_and_Lighting#Coordinate_Systems)
+
+______
 _____________
 
 ### Exercícios no Blender
