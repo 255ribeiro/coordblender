@@ -61,6 +61,7 @@ _____
   5.  Se duas linhas intersectam uma terceira linha de tal forma que a soma dos ângulos internos em um lado é menor que dois ângulos retos, então as duas linhas devem se intersectar neste lado se forem estendidas indefinidamente. (Postulado de Euclides ou Postulado das Paralelas)
 
 ![Elementos](figs/imgGeom/elementos.png)
+###### fonte: EUCLID. Euclid’s Elements of Geometry. 2nd. ed. [s.l.]: Richard Fitzpatrick, 2008.
 
 ### Geometria Analítica (Cartesiana)
 
@@ -70,6 +71,7 @@ _____
 
 ![Cartesiano_plano](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg)
 ###### fonte:[https://pt.wikipedia.org/wiki/Sistema_de_coordenadas_cartesiano#/media/Ficheiro:Cartesian-coordinate-system.svg](https://pt.wikipedia.org/wiki/Sistema_de_coordenadas_cartesiano#/media/Ficheiro:Cartesian-coordinate-system.svg)
+
   * Coordenadas polares
 
 ![Polar_coordenadas](https://upload.wikimedia.org/wikipedia/commons/d/d3/Examples_of_Polar_Coordinates.svg)
