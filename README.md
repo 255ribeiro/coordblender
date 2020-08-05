@@ -30,8 +30,8 @@ _____
 ## Introdução
 
 1. Sobre o seminário de capacitação digital
-    * Apresentação no congresso da UFBA:
-      [Experiências didáticas com o uso de tecnologias digitais no ensino do desenho](https://www.youtube.com/watch?v=DDwek2GkaRI&feature=youtu.be)
+  Apresentação no congresso da UFBA:
+  [Experiências didáticas com o uso de tecnologias digitais no ensino do desenho](https://www.youtube.com/watch?v=DDwek2GkaRI&feature=youtu.be)
 2. O ensino de desenho e programas de desenho nos cursos de arquitetura
 3. Objetivos da apresentação
    
@@ -69,10 +69,11 @@ _____
   * Coordenadas cartesianas
 
 ![Cartesiano_plano](https://upload.wikimedia.org/wikipedia/commons/0/0e/Cartesian-coordinate-system.svg)
-
+###### fonte:[https://pt.wikipedia.org/wiki/Sistema_de_coordenadas_cartesiano#/media/Ficheiro:Cartesian-coordinate-system.svg](https://pt.wikipedia.org/wiki/Sistema_de_coordenadas_cartesiano#/media/Ficheiro:Cartesian-coordinate-system.svg)
   * Coordenadas polares
 
 ![Polar_coordenadas](https://upload.wikimedia.org/wikipedia/commons/d/d3/Examples_of_Polar_Coordinates.svg)
+###### fonte:[https://pt.wikipedia.org/wiki/Coordenadas_polares#/media/Ficheiro:Examples_of_Polar_Coordinates.svg](https://pt.wikipedia.org/wiki/Coordenadas_polares#/media/Ficheiro:Examples_of_Polar_Coordinates.svg)
 
 ### Geometria Projetiva (Desargues)
 
@@ -90,10 +91,13 @@ _____
   * [Sistemas de coordenadas homogêneas](https://en.wikipedia.org/wiki/Homogeneous_coordinates)
   
 ![img](https://upload.wikimedia.org/wikipedia/commons/1/12/RationalBezier2D.svg)
+###### fonte:[https://en.wikipedia.org/wiki/Homogeneous_coordinates#/media/File:RationalBezier2D.svg](https://en.wikipedia.org/wiki/Homogeneous_coordinates#/media/File:RationalBezier2D.svg)
 
   * [Matriz de transformação](https://en.wikipedia.org/wiki/Transformation_matrix)
 
+
 ![mat_img](https://upload.wikimedia.org/wikipedia/commons/2/2c/2D_affine_transformation_matrix.svg)
+  ###### fonte:[https://en.wikipedia.org/wiki/Transformation_matrix#/media/File:2D_affine_transformation_matrix.svg](https://en.wikipedia.org/wiki/Transformation_matrix#/media/File:2D_affine_transformation_matrix.svg)
 
 
 ### Geometria Descritiva (Mongeana)
@@ -101,14 +105,14 @@ _____
 [Gaspar Monge  1746-1818](https://pt.wikipedia.org/wiki/Gaspard_Monge)
 
 ![sólidos intercesão](https://upload.wikimedia.org/wikipedia/commons/e/e0/Kegelzylinder-mantellinienverf.png)
-
+###### fonte:[https://pt.wikipedia.org/wiki/Geometria_descritiva#/media/Ficheiro:Kegelzylinder-mantellinienverf.png](https://pt.wikipedia.org/wiki/Geometria_descritiva#/media/Ficheiro:Kegelzylinder-mantellinienverf.png)
 ![diedros](figs/imgGeom/diedros.png)
 
-###### Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
+###### fonte: Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
 
 ![bissetores](figs/imgGeom/bissetores.png)
 
-###### Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
+###### fonte: Material de aula da disciplina ARQA20 - Desenho Projetivo. Elaborado pela professora Natalie Johanna Groetelaars
 _______
 ### Sistemas de coordenadas em computação gráfica
 
