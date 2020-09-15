@@ -38,7 +38,7 @@ _____
 
 ### Origens da Geometria
 
-![egipcios](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/sc(1).jpg)
+![Egípcios](https://s1.static.brasilescola.uol.com.br/be/conteudo/images/sc(1).jpg)
 ###### TOLEDO, M. Didática de matemática: como dois e dois: a construção da Matemática. São Paulo: FTD, 1997 p. 19.
 
 ### Geometria Euclidiana
